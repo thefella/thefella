@@ -22,8 +22,3 @@ A selection of different photos for using in print (hi-res) or web (low-res).
 - Horses: [hi-res](photos/horses_hi-res.jpg) | [low-res](photos/horses_low-res.jpg) (In Iceland, by _Greg Annandale_)
 
 - Metro: [hi-res](photos/metro_hi-res.jpg) | [low-res](photos/metro_low-res.jpg) (In Russia, by _Mike Murphy_)
-
-
-## Downloadable Media Kit
-
-- Media Kit: [PDF](mediakit/thefella_media_kit.pdf)
